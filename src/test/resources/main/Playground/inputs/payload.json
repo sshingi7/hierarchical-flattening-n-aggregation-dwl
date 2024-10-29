@@ -1,0 +1,39 @@
+{
+    "orders": [
+        {
+            "orderId": "001",
+            "customer": {
+                "name": "John Doe"
+            },
+            "items": [
+                {
+                    "price": 100,
+                    "quantity": 2
+                },
+                {
+                    "price": 50,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "orderId": "002",
+            "customer": {
+                "name": "Jane Smith"
+            },
+            "items": [
+                {
+                    "price": 200,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "orderId": "003",
+            "customer": {
+                "name": "Emily Johnson"
+            },
+            "items": []
+        }
+    ]
+}
